@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416664827268",
+    "project_id": "memepedia-69d51",
+    "storage_bucket": "memepedia-69d51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416664827268:android:7fe83d1471375cd7c799d1",
+        "android_client_info": {
+          "package_name": "com.manjaro.memepedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416664827268-sr6obuc9gqmg35pcpl8ctthn37391c3i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcmsN580pzyPpVwW9gPzslRmhm9UKZkag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416664827268-sr6obuc9gqmg35pcpl8ctthn37391c3i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
